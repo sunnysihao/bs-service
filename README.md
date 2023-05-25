@@ -1,1 +1,1 @@
-# sanic-service-app
+# bs-service
