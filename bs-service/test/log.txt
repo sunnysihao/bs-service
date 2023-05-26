@@ -1,0 +1,15 @@
+2023-05-26 10:13:42.575 | INFO     | __main__:<module>:14 - 这是一条info
+2023-05-26 10:13:42.575 | WARNING  | __main__:<module>:15 - 这是一条warning
+2023-05-26 10:13:42.575 | DEBUG    | __main__:<module>:16 - 这是一条debug
+2023-05-26 10:13:48.162 | INFO     | __main__:<module>:14 - 这是一条info
+2023-05-26 10:13:48.163 | WARNING  | __main__:<module>:15 - 这是一条warning
+2023-05-26 10:13:48.163 | DEBUG    | __main__:<module>:16 - 这是一条debug
+2023-05-26 10:14:09.248 | INFO     | __main__:<module>:14 - 这是一条info
+2023-05-26 10:14:09.249 | WARNING  | __main__:<module>:15 - 这是一条warning
+2023-05-26 10:14:09.249 | DEBUG    | __main__:<module>:16 - 这是一条debug
+2023-05-26 10:14:11.249 | INFO     | __main__:<module>:14 - 这是一条info
+2023-05-26 10:14:11.254 | WARNING  | __main__:<module>:15 - 这是一条warning
+2023-05-26 10:14:11.254 | DEBUG    | __main__:<module>:16 - 这是一条debug
+2023-05-26 10:14:13.585 | INFO     | __main__:<module>:14 - 这是一条info
+2023-05-26 10:14:13.586 | WARNING  | __main__:<module>:15 - 这是一条warning
+2023-05-26 10:14:13.586 | DEBUG    | __main__:<module>:16 - 这是一条debug

@@ -1,0 +1,10 @@
+2023-05-26 18:25:15 INFO: Starting worker [10988]
+2023-05-26 18:25:17 ERROR: Exception occurred while handling uri: 'http://localhost:8000/sum?a=1&b=0'
+Traceback (most recent call last):
+  File "handle_request", line 97, in handle_request
+    from sanic_ext.extensions.base import Extension  # type: ignore
+  File "D:\Desktop\bs-service\bs-service\bs-service\service\server.py", line 39, in sum
+    sum = str(int(a) / int(b))
+ZeroDivisionError: division by zero
+2023-05-26 18:25:21 WARNING: server_warning
+2023-05-26 18:25:29 WARNING: warningggggggggggg
